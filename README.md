@@ -22,21 +22,18 @@
 
 ### ✍️ My Quote
 
-<div style="background-color: #080a0cff; padding: 20px; border-radius: 8px; border: 1px solid #30363d; margin-bottom: 20px;">
-  <p style="font-style: italic; color: #2d9b3aff; font-size: 1.2em; line-height: 1.5;">
-"Kerapian bukan untuk mengesankan orang lain, tapi untuk menghargai diri sendiri. Rasa percaya diri seringkali dimulai dari kemeja yang disetrika."
-  </p>
-  <p align="right" style="color: #b4db19ff; margin-top: 15px; font-size: 1em;">
-    - Dimas
-  </p>
-</div>
+<p align="left">
+  <img 
+    src="image.png" 
+    alt="Quote by Dimas"
+    width="650"  height="150" >
+</p>
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=misterdhimaz&limit=5&theme=merko&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=misterdhimaz&icon=0&color=0)](https://visitcount.itsvg.in)
-
 
 <h3 align="left">Main game yukss!</h3>
 
