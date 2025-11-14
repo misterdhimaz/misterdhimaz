@@ -3,11 +3,11 @@
 <h1 align="center">Hi 👋, I'm M. Dimas Anwar</h1>
 <h3 align="center">Saya adalah seorang mahasiswa yang sedang aktif mempelajari pengembangan web dan teknologi informasi. Saat ini saya fokus memperdalam kemampuan di bidang HTML, CSS, JavaScript, php serta sedang belajar berbagai framework modern. GitHub ini saya gunakan sebagai tempat dokumentasi perjalanan belajar, eksplorasi proyek pribadi, dan pengembangan portofolio. Saya percaya bahwa konsistensi belajar dan praktik langsung adalah kunci untuk menjadi developer yang handal. Silakan jelajahi repositori saya untuk melihat berbagai proyek sederhana yang saya bangun dalam proses belajar.</h3>
 
-- 🔭 I’m currently working on [SeaNusa](https://github.com/misterdhimaz/SeaNusa.git)
+- 🔭 I’m currently working on [Website Undangan & Website Ormada (HIMATASTI)]
 - 👯 I’m looking to collaborate on [Resep Naks Kost](https://resep-naks-kost.vercel.app/)
 - 🤝 I’m looking for help with friends
 - 📫 How to reach me **dhimazanswer@gmail.com**
-- 🌱 I’m currently learning Full Stack
+- 🌱 I’m currently learning Full Stack Developer
 - ⚡ Fun fact Semangat saya nyala terus kalau udah ngoding malam-malam sambil denger musik lawas tahun 80/90 an...
 
 ## 🌐 Socials:
@@ -20,8 +20,16 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=misterdhimaz&theme=blue-green&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=misterdhimaz&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+### ✍️ My Quote
+
+<div style="background-color: #080a0cff; padding: 20px; border-radius: 8px; border: 1px solid #30363d; margin-bottom: 20px;">
+  <p style="font-style: italic; color: #2d9b3aff; font-size: 1.2em; line-height: 1.5;">
+"Kerapian bukan untuk mengesankan orang lain, tapi untuk menghargai diri sendiri. Rasa percaya diri seringkali dimulai dari kemeja yang disetrika."
+  </p>
+  <p align="right" style="color: #b4db19ff; margin-top: 15px; font-size: 1em;">
+    - Dimas
+  </p>
+</div>
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=misterdhimaz&limit=5&theme=merko&combine_all_yearly_contributions=true)
