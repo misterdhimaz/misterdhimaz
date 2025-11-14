@@ -1,22 +1,25 @@
-<h1 align="center">Hi 👋, I'm M. Dimas Anwar</h1>
-<h3 align="center">Saya adalah seorang mahasiswa yang sedang aktif mempelajari pengembangan web dan teknologi informasi. Saat ini saya fokus memperdalam kemampuan di bidang HTML, CSS, JavaScript, php serta sedang belajar berbagai framework modern. GitHub ini saya gunakan sebagai tempat dokumentasi perjalanan belajar, eksplorasi proyek pribadi, dan pengembangan portofolio. Saya percaya bahwa konsistensi belajar dan praktik langsung adalah kunci untuk menjadi developer yang handal. Silakan jelajahi repositori saya untuk melihat berbagai proyek sederhana yang saya bangun dalam proses belajar.</h3>
+![M. Dimas Anwar](i.png)
+# 💫 About Me:
+🔭 I’m currently working on [SeaNusa](https://github.com/misterdhimaz/SeaNusa.git)<br>👯 I’m looking to collaborate on [DigiVerse](https://digi-verse-rosy.vercel.app/) &  [Resep Naks Kost](https://resep-naks-kost.vercel.app/)<br>🤝 I’m looking for help with <br>🌱 I’m currently learning Full Stack<br>💬 Ask me about ?<br>⚡ Fun fact Semangat saya nyala terus kalau udah ngoding malam-malam sambil denger musik lawas tahun 80/90 an...
 
-- 🔭 I’m currently working on [SeaNusa](https://github.com/misterdhimaz/SeaNusa.git)
 
-- 🌱 I’m currently learning **backend**
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/m_dimas_anwar) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://id.linkedin.com/in/dimas-anwar) 
 
-- 👯 I’m have collaborate on [DigiVerse](https://digi-verse-rosy.vercel.app/)
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat&logo=laravel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=misterdhimaz&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=misterdhimaz&theme=blue-green&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=misterdhimaz&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-- 🤝 I’m once collaborated with a group of friends on [Resep Naks Kost](https://resep-naks-kost.vercel.app/)
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
-- 📫 How to reach me **dhimazanswer@gmail.com**
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=misterdhimaz&limit=5&theme=merko&combine_all_yearly_contributions=true)
 
-- ⚡ Fun fact **⚡ Semangat saya nyala terus kalau udah ngoding malam-malam sambil denger musik lawas tahun 80/90 an...**
+---
+[![](https://visitcount.itsvg.in/api?id=misterdhimaz&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/m_dimas_anwar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="m_dimas_anwar" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
