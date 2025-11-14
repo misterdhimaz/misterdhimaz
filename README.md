@@ -2,7 +2,6 @@
 # 💫 About Me:
 🔭 I’m currently working on [SeaNusa](https://github.com/misterdhimaz/SeaNusa.git)<br>👯 I’m looking to collaborate on [DigiVerse](https://digi-verse-rosy.vercel.app/) &  [Resep Naks Kost](https://resep-naks-kost.vercel.app/)<br>🤝 I’m looking for help with <br>🌱 I’m currently learning Full Stack<br>💬 Ask me about ?<br>⚡ Fun fact Semangat saya nyala terus kalau udah ngoding malam-malam sambil denger musik lawas tahun 80/90 an...
 
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/m_dimas_anwar) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://id.linkedin.com/in/dimas-anwar) 
 
