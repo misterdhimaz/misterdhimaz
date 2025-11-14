@@ -1,6 +1,14 @@
 ![M. Dimas Anwar](i.png)
 # 💫 About Me:
-🔭 I’m currently working on [SeaNusa](https://github.com/misterdhimaz/SeaNusa.git)<br>👯 I’m looking to collaborate on [DigiVerse](https://digi-verse-rosy.vercel.app/) &  [Resep Naks Kost](https://resep-naks-kost.vercel.app/)<br>🤝 I’m looking for help with <br>🌱 I’m currently learning Full Stack<br>💬 Ask me about ?<br>⚡ Fun fact Semangat saya nyala terus kalau udah ngoding malam-malam sambil denger musik lawas tahun 80/90 an...
+<h1 align="center">Hi 👋, I'm M. Dimas Anwar</h1>
+<h3 align="center">Saya adalah seorang mahasiswa yang sedang aktif mempelajari pengembangan web dan teknologi informasi. Saat ini saya fokus memperdalam kemampuan di bidang HTML, CSS, JavaScript, php serta sedang belajar berbagai framework modern. GitHub ini saya gunakan sebagai tempat dokumentasi perjalanan belajar, eksplorasi proyek pribadi, dan pengembangan portofolio. Saya percaya bahwa konsistensi belajar dan praktik langsung adalah kunci untuk menjadi developer yang handal. Silakan jelajahi repositori saya untuk melihat berbagai proyek sederhana yang saya bangun dalam proses belajar.</h3>
+
+- 🔭 I’m currently working on [SeaNusa](https://github.com/misterdhimaz/SeaNusa.git)
+- 👯 I’m looking to collaborate on [Resep Naks Kost](https://resep-naks-kost.vercel.app/)
+- 🤝 I’m looking for help with friends
+- 📫 How to reach me **dhimazanswer@gmail.com**
+- 🌱 I’m currently learning Full Stack
+- ⚡ Fun fact Semangat saya nyala terus kalau udah ngoding malam-malam sambil denger musik lawas tahun 80/90 an...
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/m_dimas_anwar) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://id.linkedin.com/in/dimas-anwar) 
